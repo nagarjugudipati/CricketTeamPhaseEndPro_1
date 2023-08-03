@@ -1,0 +1,8 @@
+D:\Mphasis\Phase-1 End Projects\CricketTeamPhaseEndPro-1\CricketTeamPhaseEndPro-1\bin\Debug\CricketTeamPhaseEndPro-1.exe.config
+D:\Mphasis\Phase-1 End Projects\CricketTeamPhaseEndPro-1\CricketTeamPhaseEndPro-1\bin\Debug\CricketTeamPhaseEndPro-1.exe
+D:\Mphasis\Phase-1 End Projects\CricketTeamPhaseEndPro-1\CricketTeamPhaseEndPro-1\bin\Debug\CricketTeamPhaseEndPro-1.pdb
+D:\Mphasis\Phase-1 End Projects\CricketTeamPhaseEndPro-1\CricketTeamPhaseEndPro-1\obj\Debug\CricketTeamPhaseEndPro-1.csproj.AssemblyReference.cache
+D:\Mphasis\Phase-1 End Projects\CricketTeamPhaseEndPro-1\CricketTeamPhaseEndPro-1\obj\Debug\CricketTeamPhaseEndPro-1.csproj.SuggestedBindingRedirects.cache
+D:\Mphasis\Phase-1 End Projects\CricketTeamPhaseEndPro-1\CricketTeamPhaseEndPro-1\obj\Debug\CricketTeamPhaseEndPro-1.csproj.CoreCompileInputs.cache
+D:\Mphasis\Phase-1 End Projects\CricketTeamPhaseEndPro-1\CricketTeamPhaseEndPro-1\obj\Debug\CricketTeamPhaseEndPro-1.exe
+D:\Mphasis\Phase-1 End Projects\CricketTeamPhaseEndPro-1\CricketTeamPhaseEndPro-1\obj\Debug\CricketTeamPhaseEndPro-1.pdb
